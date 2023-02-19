@@ -1,5 +1,5 @@
-<h1>Project Title</h1>
-<p>___________________________</p>
+<h1>Crop Type Detection System</h1>
+<p>here crop image will be classified in some predefined classes</p>
 <h3>Created By: Shivkumar Chauhan</h3>
 <br/>
 <br/>
