@@ -3,3 +3,5 @@ __pycache__
 *.php
 *.java
 Main_Data
+Preprocessed_Data
+*.h5
